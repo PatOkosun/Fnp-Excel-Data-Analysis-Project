@@ -7,7 +7,7 @@
 - [Data cleaning and preparation](#data-cleaning-and-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
-- [Key Insights/Findings](#key-insights/findings)
+- [Key Insights](#key-insights)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
 - [References](#references)
@@ -54,8 +54,8 @@ The below Features were worked with in Excel:
 - Data Validation: Ensured consistent and accurate data entries.
 - Charts: Created visual representations of sales data for better insights.
 - 
-### Key Insights/Findings
-The Analysis result are summarized as follows
+### Key Insights
+The Analysis result/Findings are summarized as follows
 #### Performance Metrics:
 
 - Total Orders: 1,000
