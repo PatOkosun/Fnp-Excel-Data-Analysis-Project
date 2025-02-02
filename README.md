@@ -7,7 +7,7 @@
 - [Data cleaning and preparation](#data-cleaning-and-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
-- [Key Insights/Results/Findings](#key-insights/results/findings)
+- [Key Insights/Results/Findings](#key-insights-results-findings)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
 - [References](#references)
@@ -88,23 +88,23 @@ Opportunities for growth in cities with lower order volumes, such as Bhiapora an
 ### Recommendations
 Based on the analysis, we recommend the following actions
 
-#### Leverage High-Performing Occasions:
+##### Leverage High-Performing Occasions:
 
  -  Focus marketing efforts on "Anniversary" and "Raksha Bandhan" to maximize revenue during these periods.
  -  Develop targeted campaigns to boost sales during underperforming occasions like "Valentine’s Day".
   
-#### Optimize Product Strategy:
+##### Optimize Product Strategy:
  -  Increase inventory and promotions for top categories like "Colors" and "Soft Toy".
  -  Explore bundling strategies for lower-performing categories such as "Mugs" and "Plants".
    
-#### Seasonal Campaigns:
+##### Seasonal Campaigns:
  - Plan promotional activities around March and August to capitalize on high-revenue months.
  - Identify potential reasons for the dip in June and December and address them with special offers or discounts.
    
-#### Customer Behavior Insights:
+##### Customer Behavior Insights:
  - Analyze peak hours (12 PM–6 PM) to improve delivery operations and staff scheduling for optimal efficiency.
    
-#### Regional Growth Opportunities:
+##### Regional Growth Opportunities:
  - Strengthen outreach efforts in cities with lower order volumes.
  - Consider region-specific product customization or offers to boost engagement.
 
