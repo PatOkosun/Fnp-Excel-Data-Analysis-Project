@@ -1,2 +1,3 @@
 # Fnp-Excel-Data-Analysis-Project
-Sales dashboard project showcasing revenue breakdowns, seasonal trends, and product performance leveraging DAX, Power Query, Measures and Excel for actionable insights into trends and performance, designed for decision-making
+Overview
+This dashboard provides a comprehensive analysis of sales performance across various dimensions, including revenue trends, product performance, customer behavior, and geographical distribution at Fnp. Key metrics include total orders, total revenue, average delivery time, and average customer spending. As a data analyst, this project served as a hands-on opportunity to apply my skills and knowledge in a real-world setting.
