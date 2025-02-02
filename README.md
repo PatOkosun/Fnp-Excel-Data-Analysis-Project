@@ -17,6 +17,8 @@ The Sales Analysis Dashboard is a data-driven business intelligence solution dev
 
 This project combines data cleaning, analysis, and visualization to deliver an intuitive and interactive experience for stakeholders. As a data analyst, this project served as a hands-on opportunity to apply my skills and knowledge in a real-world setting.
 
+---
+
 ### Analysis Dashboard
 
 ![dashboad](https://github.com/user-attachments/assets/05f793f8-dae3-41dc-804d-c028200d950a)
@@ -119,6 +121,14 @@ Based on the analysis, we recommend the following actions
 ### References 
 - Excel skills for business specialization
 [Coursera](https://www.coursera.org/specializations/excel)
+
+
+😄
+
+💻
+|Data Analysis Project|
+|--------|
+|Excel|
 
 
 
