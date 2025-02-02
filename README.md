@@ -17,6 +17,9 @@ The Sales Analysis Dashboard is a data-driven business intelligence solution dev
 
 This project combines data cleaning, analysis, and visualization to deliver an intuitive and interactive experience for stakeholders. As a data analyst, this project served as a hands-on opportunity to apply my skills and knowledge in a real-world setting.
 
+![dashboad](https://github.com/user-attachments/assets/05f793f8-dae3-41dc-804d-c028200d950a)
+
+
 ### Data Sources
 Sales Data: The primary dataset used for this analysis is the "fnp_dataset folder", which consist of a "Customers.csv", "Orders.csv" and "Products.csv" file containing detailed information about Customers, Orders and product made by the company.
 
