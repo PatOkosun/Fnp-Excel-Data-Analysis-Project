@@ -123,12 +123,13 @@ Based on the analysis, we recommend the following actions
 [Coursera](https://www.coursera.org/specializations/excel)
 
 
-😄
 
-💻
-|Data Analysis Project|
-|--------|
-|Excel|
+---
+©️`Project by PATRICK OKOSUN`| Data Analyst | Power Bi Developer |
+
+| Excel | SQL | DAX | POWER BI | TABLUE |
+
+😄
 
 
 
